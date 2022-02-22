@@ -1,0 +1,9 @@
+﻿  Trabalho de Grupo c++.cpp
+C:\Users\T0121075\Desktop\Trabalho de Grupo c++\Trabalho de Grupo c++\Trabalho de Grupo c++.cpp(8,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\T0121075\Desktop\Trabalho de Grupo c++\Trabalho de Grupo c++\Trabalho de Grupo c++.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\T0121075\Desktop\Trabalho de Grupo c++\Trabalho de Grupo c++\Trabalho de Grupo c++.cpp(292,9): warning C4101: 'nomeStock': unreferenced local variable
+C:\Users\T0121075\Desktop\Trabalho de Grupo c++\Trabalho de Grupo c++\Trabalho de Grupo c++.cpp(327,9): warning C4101: 'opcao': unreferenced local variable
+C:\Users\T0121075\Desktop\Trabalho de Grupo c++\Trabalho de Grupo c++\Trabalho de Grupo c++.cpp(328,27): warning C4101: 'valortotal': unreferenced local variable
+C:\Users\T0121075\Desktop\Trabalho de Grupo c++\Trabalho de Grupo c++\Trabalho de Grupo c++.cpp(328,15): warning C4101: 'valorvenda': unreferenced local variable
+C:\Users\T0121075\Desktop\Trabalho de Grupo c++\Trabalho de Grupo c++\Trabalho de Grupo c++.cpp(328,9): warning C4101: 'flag': unreferenced local variable
+  Trabalho de Grupo c++.vcxproj -> C:\Users\T0121075\Desktop\Trabalho de Grupo c++\Debug\Trabalho de Grupo c++.exe
